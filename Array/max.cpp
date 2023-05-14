@@ -17,6 +17,6 @@ int main()
         if(a[i]>max)
          max=a[i];
     }
-    cout<<"Max is = "<<max<<endl;
+    cout<<"chutiya "<<max<<endl;
     return 0;
 }
